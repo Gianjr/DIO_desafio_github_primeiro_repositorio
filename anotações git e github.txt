@@ -1,0 +1,8 @@
+Git clone (link) - baixar o repositorio do Github
+
+cd - navegação dos repositorios
+
+git status - visualisar status do git 
+
+git comit - comitar os repositorios
+
